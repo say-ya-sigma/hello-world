@@ -7,4 +7,4 @@
 
 最近はPythonでChatGPTのBotを書いていました。
 
-これはpushできない
+これはpushできる
