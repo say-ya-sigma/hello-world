@@ -4,3 +4,9 @@
 私は、フロントエンドエンジニアです。
 バックエンドもやります。
 よろしくお願いします。
+
+## pythonのhello world
+
+```
+python3 hello_world.py
+```
